@@ -28,7 +28,7 @@ root@nuc:/~# ./run.sh
 
 ## Decoding internal messages
 
-![Screenshot tvcas4cam](https://github.com/tvcas4cam/blob/main/Screenshot.jpg)
+![Screenshot tvcas4cam](https://github.com/unidiag/tvcas4cam/blob/main/Screenshot.jpg)
 
 ## License
 GNU General Public License v3.0
